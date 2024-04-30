@@ -36,8 +36,10 @@ body{
 
 .badguys{
     height: 500px;
+    width: 300px;
     padding-block: 100px;
-    justify-content: space-between;
+    justify-content: space-between;5
+
 }
 
 .villians{
